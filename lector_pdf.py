@@ -20,3 +20,7 @@ texto=pagina.extractText()
 voz.setProperty('rate', 140)
 voz.say(texto)
 voz.runAndWait()
+
+
+
+if __name__ == '__main__':
